@@ -1,1 +1,1 @@
-This is modified file 2
+Hello, just for modification file2
